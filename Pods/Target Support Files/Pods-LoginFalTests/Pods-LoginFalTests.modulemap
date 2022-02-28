@@ -1,0 +1,6 @@
+framework module Pods_LoginFalTests {
+  umbrella header "Pods-LoginFalTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
